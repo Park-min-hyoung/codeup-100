@@ -1,3 +1,3 @@
 n = int(input())
 
-print(n + 1)
+print(int(not(n)))
