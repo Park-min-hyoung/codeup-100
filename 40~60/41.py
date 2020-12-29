@@ -1,1 +1,3 @@
-print('41')
+data = [x for x in input().split()]
+
+print(data[0] // data[1])

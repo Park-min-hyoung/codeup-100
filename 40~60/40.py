@@ -1,1 +1,3 @@
-print('Park good')
+n = int(input())
+
+print(-n)
